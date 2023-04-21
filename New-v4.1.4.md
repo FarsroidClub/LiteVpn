@@ -19,5 +19,5 @@
 "Button": "  عضویت  ",
 "ButtonCancell": " بعدا ",
 "Closure": "false",
-"Show": "off"
+"Show": "on"
 }
