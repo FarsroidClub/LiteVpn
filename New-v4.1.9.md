@@ -1,10 +1,11 @@
 {
-"Title": "❗️ #فووورررری ❗️",
-"Description": "● بالاخره اینستاگرام هم مثل واتس‌آپ پروکسی اضافه کرد😍(نیاز به فیلترشکن نیست)\n\n- با دکمه عضویت زیر وارد اولین کانال پروکسی اینستاگرام بشید و با پروکسی رایگان و پرسرعت وارید اینستاگرام خودتون بشید 😃😍\n\n👇🏻",
-"Link": "tg://join?invite=sAhXXOaE4JwwMjMy",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "
+سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +15,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": "  عضویت فوری  ",
-"ButtonCancell": " اینستا نمیرم ",
-"Closure": "true",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
