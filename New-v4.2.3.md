@@ -1,10 +1,11 @@
 {
-"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
-"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
-"Link": "tg://join?invite=v6OO4-wDU6oxZmFk",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "
+سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Farsroid_Club",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +16,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "138470001",
-"ShowTime": "3",
-"Button": " عضویت فوری ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
